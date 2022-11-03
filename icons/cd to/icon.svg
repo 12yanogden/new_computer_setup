@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256.43695mm"
+   height="126.47467mm"
+   viewBox="0 0 256.43695 126.47467"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   sodipodi:docname="icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:zoom="0.62048644"
+     inkscape:cx="487.52073"
+     inkscape:cy="337.63832"
+     inkscape:window-width="1312"
+     inkscape:window-height="969"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(21.301141,-79.974167)">
+    <rect
+       style="fill:#343434;fill-opacity:1;stroke:none;stroke-width:8.992;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect29606"
+       width="126.47467"
+       height="126.47467"
+       x="108.50484"
+       y="79.974167"
+       inkscape:export-filename="/Users/ryan/Projects/new_computer_setup/icons/cd to/dark_mode.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#b4b4b4;stroke-width:3.71449;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4250"
+       width="80.903915"
+       height="61.115505"
+       x="131.29021"
+       y="112.65375"
+       ry="11.86322"
+       inkscape:export-filename="/Users/ryan/Projects/new_computer_setup/icons/cd to/dark_mode.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g17526"
+       transform="matrix(0.69108902,0,0,0.69108902,72.057494,-135.66121)"
+       style="fill:#b4b4b4;fill-opacity:1"
+       inkscape:export-filename="/Users/ryan/Projects/new_computer_setup/icons/cd to/dark_mode.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#b4b4b4;fill-opacity:1;stroke-width:39.7755"
+         d="m 394.02659,1584.8651 107.79652,-59.7253 -107.79652,-59.7256 -7.4e-4,-26.042 126.78426,69.2391 v 33.057 l -126.78426,69.2384 z"
+         id="path1825"
+         transform="scale(0.26458333)"
+         sodipodi:nodetypes="cccccccc" />
+      <path
+         style="fill:#b4b4b4;fill-opacity:1;stroke-width:7.44152"
+         d="m 145.42613,421.61485 h 38.80698 v 4.60421 h -38.80698 z"
+         id="path1864"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <rect
+       style="fill:#f1f1f1;fill-opacity:1;stroke:none;stroke-width:8.992;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect29606-7"
+       width="126.47467"
+       height="126.47467"
+       x="-20.615669"
+       y="79.974167"
+       inkscape:export-filename="/Users/ryan/Projects/new_computer_setup/icons/cd to/light_mode.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#656565;stroke-width:3.71449;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4250-6"
+       width="80.903915"
+       height="61.115505"
+       x="2.169703"
+       y="112.65375"
+       ry="11.86322"
+       inkscape:export-filename="/Users/ryan/Projects/new_computer_setup/icons/cd to/light_mode.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g17526-2"
+       transform="matrix(0.69108902,0,0,0.69108902,-57.063013,-135.66121)"
+       style="fill:#656565;fill-opacity:1"
+       inkscape:export-filename="/Users/ryan/Projects/new_computer_setup/icons/cd to/light_mode.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#656565;fill-opacity:1;stroke-width:39.7755"
+         d="m 394.02659,1584.8651 107.79652,-59.7253 -107.79652,-59.7256 -7.4e-4,-26.042 126.78426,69.2391 v 33.057 l -126.78426,69.2384 z"
+         id="path1825-7"
+         transform="scale(0.26458333)"
+         sodipodi:nodetypes="cccccccc" />
+      <path
+         style="fill:#656565;fill-opacity:1;stroke-width:7.44152"
+         d="m 145.42613,421.61485 h 38.80698 v 4.60421 h -38.80698 z"
+         id="path1864-0"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+  </g>
+</svg>
